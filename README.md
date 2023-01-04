@@ -4,3 +4,5 @@
 2.[OOPS](https://github.com/Somesh140/Revision_Repo/blob/main/Revision_OOPS.ipynb)
 
 3.[Python Fundamentals](https://github.com/Somesh140/Revision_Repo/blob/main/Python_Fundamentals.ipynb)
+
+4.[Python interview practice problems](https://github.com/Somesh140/Revision_Repo/blob/main/Python_practice_problems.ipynb)
